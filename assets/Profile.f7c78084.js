@@ -1,0 +1,1 @@
+import{_ as s,o as e,c as t,a as o}from"./index.6b43fdec.js";const c={},a={class:"container p-4"},r=o("h2",null,"Profile",-1),n=o("div",{class:"row"},[o("div",{class:"col-12"})],-1),_=[r,n];function i(d,l,p,f,h,u){return e(),t("div",a,_)}var v=s(c,[["render",i]]);export{v as default};
